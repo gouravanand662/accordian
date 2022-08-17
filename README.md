@@ -1,3 +1,3 @@
 # accordian
 
-Link to web app: http://gouravanand662.github.io/accordian
+Link to web app: https://gouravanand662.github.io/accordian/
